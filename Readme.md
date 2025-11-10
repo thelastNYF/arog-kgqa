@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 This repository contains the official implementation for the paper **"Privacy-protected Retrieval-Augmented Generation for Knowledge Graphs Question Answering"**.
-![Project Structure Screenshot](model.png)
+![Project Structure Screenshot](Model.png)
 
 ## 📂 Repository Structure
 
@@ -16,7 +16,7 @@ ARoG-main/
 ├── 📄 freebase_func.py     # KG Search
 ├── 📄 lm_server.py         # Call for SentenceTransformer
 ├── 📄 main_freebase.py     # Main execution script
-├── 📄 model.png            # Model picture
+├── 📄 Model.png            # Model picture
 ├── 📄 prompt_list.py       # Prompts used
 ├── 📄 README.md            # This documentation
 ├── 📄 requirements.py      # Requirements
